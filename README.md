@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-darkgreen?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/React.js-blue?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-red?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/postgres-red?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/css-purple?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/jwt-orange?style=for-the-badge">
 </p>
