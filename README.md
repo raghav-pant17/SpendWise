@@ -16,7 +16,7 @@
 
 ## Description
 
-- Developed a full-stack expense tracking web application using Spring Boot, React.js, and MySQL, facilitating seamless management of day-to-day finances.
+- Developed a full-stack expense tracking web application using Spring Boot, React.js, and Postgres, facilitating seamless management of day-to-day finances.
 - Implemented multi-role functionality with user authentication, enabling secure access for both users and administrators, with features such as sign-in, sign-up, password reset, and email verification.
 - Developed intuitive user dashboards, transaction management, upcoming/recurring transactions tracking, monthly summaries, and statistics, budget management.
 - Developed categories, users and transactions management for administrators.
@@ -39,7 +39,7 @@ git clone https://github.com/<your-username>/Fullstack-Expense-Tracker
 - Configure the following credentials in the [`application.properties`](https://github.com/DharshiBalasubramaniyam/Fullstack-Expense-Tracker/blob/main/backend/src/main/resources/application.properties) file.
 
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/YOUR_DATABASE_NAME
+spring.datasource.url=jdbc:postgres://localhost:3306/YOUR_DATABASE_NAME
 spring.datasource.username=YOUR_USERNAME
 spring.datasource.password=YOUR_PASSWORD
 
